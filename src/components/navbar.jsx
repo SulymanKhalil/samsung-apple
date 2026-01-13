@@ -15,6 +15,7 @@ function Navbar() {
     { name: "Products", href: "#products" },
     { name: "Innovation", href: "#innovation" },
     { name: "Lifestyle", href: "#lifestyle" },
+    { name: "Comparison", href: "#comparison" },
     { name: "Ecosystem", href: "#ecosystem" },
   ];
 

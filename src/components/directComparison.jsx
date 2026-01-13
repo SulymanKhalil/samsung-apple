@@ -12,7 +12,10 @@ function DirectComparison() {
   ];
 
   return (
-    <section className="w-full py-40 bg-black text-white overflow-hidden">
+    <section
+      id="comparison"
+      className="w-full py-40 bg-black text-white overflow-hidden"
+    >
       <div className="w-full max-w-[1440px] mx-auto px-6 md:px-12 space-y-24">
         {/* Header */}
         <div className="text-center space-y-8" data-aos="fade-up">
